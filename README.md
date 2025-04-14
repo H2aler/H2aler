@@ -41,6 +41,7 @@
 
 감사합니다! ☺️
 
+모든 자료의 저작권은 [H2aler(김재현: KIM JAEHYUN)]에게 있으며, 허가 없이 복제, 배포, 전송, 전시 등의 행위를 금지합니다.
 
 <!--
 **H2aler/H2aler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
