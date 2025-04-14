@@ -36,12 +36,18 @@
 
 [**내 4 번째 HTML5 주식 시뮬레이션 게임 사이트 방문하기**](https://h2aler.github.io/HTML5_GAME_FOUR/)
 
+[**내 5 번째 HTML5 좀비 크러쉬 서바이벌 게임 사이트 방문하기**](https://h2aler.github.io/HTML5_GAME_FIVE/)
+
 ## 다짐
 저는 귀사에서 제공하는 기회를 통해 **프론트엔드 개발자**로서의 역량을 극대화하고, 팀에 긍정적인 영향을 미치는 구성원이 되고자 합니다. 저의 열정과 경험이 귀사의 발전에 기여할 수 있도록 최선을 다할 것을 약속드립니다.
 
 감사합니다! ☺️
 
-모든 자료의 저작권은 [H2aler(김재현: KIM JAEHYUN)]에게 있으며, 허가 없이 복제, 배포, 전송, 전시 등의 행위를 금지합니다.
+# 📢 중요한 공지
+
+모든 자료의 저작권은 **[H2aler(김재현: KIM JAEHYUN)]**에게 있으며,  
+허가 없이 **복제, 배포, 전송, 전시** 등의 행위를 **금지**합니다.
+
 
 <!--
 **H2aler/H2aler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
