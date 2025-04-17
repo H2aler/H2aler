@@ -34,7 +34,7 @@
 
 [**내 2 번째 웹사이트 방문하기**](https://h2aler.github.io/My_Site_Two/)  <!-- 여기에 실제 웹사이트 주소로 바꾸세요! -->
 
-## 🌟 나의 1번째 HTML5기반  AI 게임 🌟
+## 🌟 나의 1번째 HTML5 기반  AI 게임 🌟
 
 [**1 번째 AI 오목 게임 사이트 방문하기**](https://h2aler.github.io/HTML5_AI_GAME_ONE/)  <!-- 여기에 실제 웹사이트 주소로 바꾸세요! -->
 
