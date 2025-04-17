@@ -38,7 +38,9 @@
 
 [**1 번째 AI 오목 게임 사이트 방문하기**](https://h2aler.github.io/HTML5_AI_GAME_ONE/)  <!-- 여기에 실제 웹사이트 주소로 바꾸세요! -->
 
-[**2 번째 AI 오목 게임 모바일 전용 사이트 방문하기**](https://h2aler.github.io/HTML5_AI_GAME_ONE_MOBILE/)
+[**2 번째 AI 오목 모바일 게임 사이트 방문하기**](https://h2aler.github.io/HTML5_AI_GAME_ONE_MOBILE/)
+
+[**3 번째 AI 오목 모바일 게임 확장 VERSION 사이트 방문하기**](https://h2aler.github.io/HTML5_AI_GAME_TWO_MOBILE/)
 
 ## 나의 HTML5 기반 게임 사이트
 
