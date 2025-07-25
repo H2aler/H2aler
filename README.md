@@ -62,6 +62,8 @@
 - [**3 번째 HTML5 주식 시뮬레이션 게임 사이트 방문하기**](https://h2aler.github.io/HTML5_GAME_THREE/)  <!-- 여기에 실제 웹사이트 주소로 바꾸세요! -->
 - [**4 번째 HTML5 주식 시뮬레이션 게임 사이트 방문하기**](https://h2aler.github.io/HTML5_GAME_FOUR/)  <!-- 여기에 실제 웹사이트 주소로 바꾸세요! -->
 - [**5 번째 HTML5 미사일 크러쉬 서바이벌 게임 사이트 방문하기**](https://h2aler.github.io/HTML5_GAME_FIVE/)  <!-- 여기에 실제 웹사이트 주소로 바꾸세요! -->
+
+## [**📽️ CGV 서버 상태 확인🍿**](https://h2aler.github.io/korean-cgv-web-developer-toolkit/)
   
 ## 다짐
 저는 귀사에서 제공하는 기회를 통해 **Frontend 개발자/Full-Stack 개발자**로서의 역량을 극대화하고, 팀에 긍정적인 영향을 미치는 구성원이 되고자 합니다. 저의 열정과 경험이 귀사의 발전에 기여할 수 있도록 최선을 다할 것을 약속드립니다.
