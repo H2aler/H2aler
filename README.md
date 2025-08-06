@@ -29,13 +29,6 @@
 - **기술 스택**: HTML, CSS, JavaScript,... 등
 - **학습 의지**: 새로운 프레임워크를 배우고 적용하는 과정에서 큰 흥미를 느끼고 있으며, 지속적인 자기 계발을 통해 기술 트렌드를 선도하고자 합니다.
 
-## 🚀 나의 Quantum‑Neural Visualization Tool
-
-**🌐 라이브 데모**: [https://h2aler.github.io/quantum-neural-viz/](https://h2aler.github.io/quantum-neural-viz/)
-
-실시간으로 양자 신경망 시각화를 체험해보세요!
-
-
 ## 나의 포트폴리오 🌟
 
 [**내 프론트엔드 포트폴리오 2025**](https://h2aler.github.io/my-frontend-portfolio-2025/)  <!-- 여기에 실제 포트폴리오 주소로 바꾸세요! -->
@@ -43,6 +36,14 @@
 [**QA 프론트엔드 포트폴리오 2025**](https://h2aler.github.io/QA-my-frontend-portfolio-2025/)
 
 [**React 프론트엔드 포트폴리오 2025**](https://h2aler.github.io/react-frontend-portfolio-2025/#/)
+
+## 🚀 나의 Quantum‑Neural Visualization Tool
+
+**🌐 라이브 데모**: [https://h2aler.github.io/quantum-neural-viz/](https://h2aler.github.io/quantum-neural-viz/)
+
+실시간으로 양자 신경망 시각화를 체험해보세요!
+
+## [**📽️ CGV 서버 상태 확인🍿**](https://h2aler.github.io/korean-cgv-web-developer-toolkit/)
 
 ## 나의 DEMO_VER 보안 솔루션
 [**D1**](https://github.com/H2aler/secure-future)
@@ -69,8 +70,6 @@
 - [**3 번째 HTML5 주식 시뮬레이션 게임 사이트 방문하기**](https://h2aler.github.io/HTML5_GAME_THREE/)  <!-- 여기에 실제 웹사이트 주소로 바꾸세요! -->
 - [**4 번째 HTML5 주식 시뮬레이션 게임 사이트 방문하기**](https://h2aler.github.io/HTML5_GAME_FOUR/)  <!-- 여기에 실제 웹사이트 주소로 바꾸세요! -->
 - [**5 번째 HTML5 미사일 크러쉬 서바이벌 게임 사이트 방문하기**](https://h2aler.github.io/HTML5_GAME_FIVE/)  <!-- 여기에 실제 웹사이트 주소로 바꾸세요! -->
-
-## [**📽️ CGV 서버 상태 확인🍿**](https://h2aler.github.io/korean-cgv-web-developer-toolkit/)
   
 ## 다짐
 저는 귀사에서 제공하는 기회를 통해 **Frontend 개발자/Full-Stack 개발자**로서의 역량을 극대화하고, 팀에 긍정적인 영향을 미치는 구성원이 되고자 합니다. 저의 열정과 경험이 귀사의 발전에 기여할 수 있도록 최선을 다할 것을 약속드립니다.
