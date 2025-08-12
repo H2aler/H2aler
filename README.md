@@ -40,6 +40,8 @@
 ## 🤖 나의의 AI Vision Advanced - TensorFlow.js 기반 고급 AI 분석 시스템
 
 **🌐 라이브 데모**: [https://h2aler.github.io/AI_Vision_Advanced/](https://h2aler.github.io/AI_Vision_Advanced/)
+*이 프로젝트는 TensorFlow.js를 활용하여 브라우저에서 직접 실행되는 고급 AI 분석 기능을 제공합니다.*
+
 
 ## 🚀 나의 Quantum‑Neural Visualization Tool
 
