@@ -37,6 +37,10 @@
 
 [**React 프론트엔드 포트폴리오 2025**](https://h2aler.github.io/react-frontend-portfolio-2025/#/)
 
+## 🤖 나의의 AI Vision Advanced - TensorFlow.js 기반 고급 AI 분석 시스템
+
+**🌐 라이브 데모**: [https://h2aler.github.io/AI_Vision_Advanced/](https://h2aler.github.io/AI_Vision_Advanced/)
+
 ## 🚀 나의 Quantum‑Neural Visualization Tool
 
 **🌐 라이브 데모**: [https://h2aler.github.io/quantum-neural-viz/](https://h2aler.github.io/quantum-neural-viz/)
