@@ -45,9 +45,9 @@
 
 ## 🌍 나의 WebGIS - OpenLayers 기반 지도 서비스 (React) Mobile
 
-**🌐 라이브 데모**: []()
+**🌐 라이브 데모**: [https://h2aler.github.io/WebGIS_React/](https://h2aler.github.io/WebGIS_React/)
 
-**📂 Repository**: []()
+**📂 Repository**: [https://github.com/H2aler/WebGIS_React](https://github.com/H2aler/WebGIS_React)
 
 ## 🤖 나의 AI Vision Advanced - TensorFlow.js 기반 고급 AI 분석 시스템
 
