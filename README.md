@@ -37,6 +37,9 @@
 
 [**React 프론트엔드 포트폴리오 2025**](https://h2aler.github.io/react-frontend-portfolio-2025/#/)
 
+## 나의 AI 진실성 탐지기 (True_or_false) 미완성
+[**AI 진실성 탐지기](https://h2aler.github.io/True_or_false/)
+
 ## 🌍 나의 WebGIS - OpenLayers 기반 지도 서비스 (Vite) 미완성 PC, Mobile
 
 **🌐 라이브 데모**: [https://h2aler.github.io/WebGIS/](https://h2aler.github.io/WebGIS/)
