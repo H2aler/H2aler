@@ -72,10 +72,10 @@
 ## 나의 DEMO_VER 보안 솔루션
 [**D1**](https://github.com/H2aler/secure-future)
 
-## 나의 웹사이트 🌐
-[**내 1 번째 웹사이트 방문하기**](https://h2aler.github.io/My_Site/)  <!-- 여기에 실제 웹사이트 주소로 바꾸세요! -->
+## 내가 만든 다른 웹사이트 🌐
+[** 1 번째 웹사이트 방문하기**](https://h2aler.github.io/My_Site/)  <!-- 여기에 실제 웹사이트 주소로 바꾸세요! -->
 
-[**내 2 번째 웹사이트 방문하기**](https://h2aler.github.io/My_Site_Two/)  <!-- 여기에 실제 웹사이트 주소로 바꾸세요! -->
+[** 2 번째 웹사이트 방문하기**](https://h2aler.github.io/My_Site_Two/)  <!-- 여기에 실제 웹사이트 주소로 바꾸세요! -->
 
 ## 🌟 나의 1번째 HTML5 기반  AI 게임 🌟
 
