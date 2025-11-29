@@ -1,126 +1,185 @@
 # 안녕하세요! 👋
 
-저는 한국에서 중학교 졸업 후 **프랑스**에서 고등학교와 대학교를 졸업한 <span style="color: #39FF14;">김재현</span>입니다. 글로벌 경험과 기술적 역량을 바탕으로 귀사에서 **Fullstack Dev**로 성장하고자 합니다.
+한국에서 중학교를 마친 뒤 **프랑스**로 건너가 고등학교와 대학교를 졸업한  
+풀스택 지향 개발자 **김재현(KIM JAEHYUN, H2aler)** 입니다.
 
-## 학력
+글로벌 환경에서 쌓은 경험과 다양한 웹·AI 프로젝트를 바탕으로  
+**Frontend / Full‑Stack Developer**로 성장하며 팀과 제품에 기여하고자 합니다.
 
-- **프랑스 라로셸 대학교 공과대학**  
-  **전공**: 컴퓨터 공학  
-  **부전공**: 마케팅, 매니지먼트  
-  **기간**: 2020년 ~ 2023년  
+---
 
-- **Fénelon/Vieljeux 고등학교**  
-  **전공**: 이과 특별전공 - 엔지니어링 (전기, 물리, Solid Works)  
-  **기간**: 2017년 ~ 2020년  
+## 🎓 학력
 
+- **라로셸 대학교 공과대학 (Université de La Rochelle, France)**  
+  - 전공: **컴퓨터 공학 (Computer Science)**  
+  - 부전공: **마케팅, 매니지먼트**  
+  - 기간: **2020 ~ 2023**
 
-## 경력
-### 세아상역(주) 인턴십
-- **기간**: 6개월
-- **주요 업무**: Microsoft Power Automate를 활용한 **RPA(로봇 프로세스 자동화)** 기반 시스템 설계
-- **핵심 경험**:
-  - 애자일 방법론을 통한 프로젝트 관리 및 팀워크 강화
-  - 스프린트 회의 및 협업을 통해 문제 해결 능력 배양
-- **추천서**: 보유 (요청 시 제공 가능)
+- **Fénelon / Vieljeux 고등학교 (La Rochelle, France)**  
+  - 전공: **이과 특별전공 – 엔지니어링 (전기, 물리, SolidWorks 등)**  
+  - 기간: **2017 ~ 2020**
 
-### 웹 개발 경험
-한국에 재정착한 후 웹 개발을 취미로 시작하며, 다양한 프로젝트에 참여했습니다. 특히, 작은 병원에서의 반응형 웹사이트 제작 의뢰를 통해 실무 경험을 쌓았습니다. 현재는 **한불 언어마을**에서 번역 업무와 웹 개발, 유지보수를 맡고 있습니다.
+---
 
-- **기술 스택**: HTML, CSS, JavaScript,... 등
-- **학습 의지**: 새로운 프레임워크를 배우고 적용하는 과정에서 큰 흥미를 느끼고 있으며, 지속적인 자기 계발을 통해 기술 트렌드를 선도하고자 합니다.
+## 💼 경력
 
-### React Native 기반 Android APK 개발 경험
-- 기존 React 및 HTML5 기반의 웹 프로젝트 코드를 성공적으로 이전하여, Android APK 형태의 모바일 애플리케이션을 개발했습니다.
+### 세아상역(주) 인턴십 (6개월)
 
-## 나의 포트폴리오 🌟
+- **역할**: RPA 기반 사내 업무 자동화 PoC 설계 및 구현  
+- **주요 업무**
+  - **Microsoft Power Automate**를 활용한 RPA(로봇 프로세스 자동화) 시나리오 설계
+  - 반복 업무 분석, 플로우 정의, 예외 처리 로직 설계
+- **협업 경험**
+  - 애자일(Scrum) 방식으로 스프린트 단위 진행
+  - 스탠드업/리뷰 미팅을 통해 요구사항 정리 및 장애 요소 해결
+- **추천서**: 보유 (요청 시 제출 가능)
 
-[**내 프론트엔드 포트폴리오 2025**](https://h2aler.github.io/my-frontend-portfolio-2025/)  <!-- 여기에 실제 포트폴리오 주소로 바꾸세요! -->
+---
 
-[**QA 프론트엔드 포트폴리오 2025**](https://h2aler.github.io/QA-my-frontend-portfolio-2025/)
+## 🌐 웹 개발 경험
 
-[**React 프론트엔드 포트폴리오 2025**](https://h2aler.github.io/react-frontend-portfolio-2025/#/)
+한국에 재정착한 이후, 개인 프로젝트와 외주를 통해 웹 개발을 꾸준히 진행하고 있습니다.
 
-## 나의 AI 진실성 탐지기 (True_or_false) 미완성
-[**AI 진실성 탐지기](https://h2aler.github.io/True_or_false/)
+- **소규모 병원 반응형 웹사이트 제작**
+  - 모바일/PC 대응 UI 설계 및 구현
+  - 일정/공지 등 간단한 관리 기능 구현
 
-## 🌍 나의 WebGIS - OpenLayers 기반 지도 서비스 (Vite) 미완성 PC, Mobile
+- **한불 언어마을**
+  - 프랑스어/한국어 번역 업무
+  - 웹사이트 **개발 및 유지보수** 담당
 
-**🌐 라이브 데모**: [https://h2aler.github.io/WebGIS/](https://h2aler.github.io/WebGIS/)
+- **기술 스택 (주요)**  
+  - **Frontend**: HTML5, CSS3, JavaScript(ES202x), React, TypeScript  
+  - **Styling**: Emotion, Styled‑Components, Tailwind CSS  
+  - **Build/Tooling**: Vite, Webpack, GitHub Pages 배포 등
 
-**📂 Repository**: [https://github.com/H2aler/WebGIS](https://github.com/H2aler/WebGIS)
+- **학습 태도**
+  - 새로운 프레임워크와 라이브러리를 실제 프로젝트에 적용해보는 것을 좋아합니다.
+  - 최신 프론트엔드/AI 트렌드를 따라가며, 샘플 프로젝트로 바로 실험합니다.
 
-## 🌍 나의 WebGIS - OpenLayers 기반 지도 서비스 (React) 미완성
+---
 
-**🌐 라이브 데모**: [https://h2aler.github.io/WebGIS_React/](https://h2aler.github.io/WebGIS_React/)
+## 📱 React Native 기반 Android APK 개발
 
-**📂 Repository**: [https://github.com/H2aler/WebGIS_React](https://github.com/H2aler/WebGIS_React)
+- 기존 **React / HTML5 웹 프로젝트**를 분석 후,  
+  **React Native** 기반의 Android 앱으로 이식하여 APK로 배포한 경험이 있습니다.
+- 공통 로직과 UI를 최대한 재사용하며, 모바일 환경에 맞는 네이티브 인터랙션을 추가했습니다.
 
-## 🤖 나의 AI Vision Advanced - TensorFlow.js 기반 고급 AI 분석 시스템
+---
 
-**🌐 라이브 데모**: [https://h2aler.github.io/AI_Vision_Advanced/](https://h2aler.github.io/AI_Vision_Advanced/)
+## 🌟 메인 포트폴리오
 
-이 프로젝트는 TensorFlow.js를 활용하여 브라우저에서 직접 실행되는 고급 AI 분석 기능을 제공합니다.
+- **프론트엔드 포트폴리오 2025 (HTML5 중심)**  
+  👉 [내 프론트엔드 포트폴리오 2025](https://h2aler.github.io/my-frontend-portfolio-2025/)
 
-**📂 Repository**: [https://github.com/H2aler/AI_Vision_Advanced](https://github.com/H2aler/AI_Vision_Advanced)
+- **React 기반 프론트엔드 포트폴리오 2025**  
+  👉 [React 프론트엔드 포트폴리오 2025](https://h2aler.github.io/react-frontend-portfolio-2025/#/)
 
+---
 
-## 🚀 나의 Quantum‑Neural Visualization Tool
+## 🤖 AI · 데이터 관련 프로젝트
 
-**🌐 라이브 데모**: [https://h2aler.github.io/quantum-neural-viz/](https://h2aler.github.io/quantum-neural-viz/)
+### 🔍 AI 진실성 탐지기 (True_or_false) – 미완성
 
-실시간으로 양자 신경망 시각화를 체험해보세요!
+- 브라우저 기반 **텍스트 진실성 탐지기**  
+- (현재 기능 확장 및 모델 고도화 진행 중)
 
-## [**📽️ CGV 서버 상태 확인🍿**](https://h2aler.github.io/korean-cgv-web-developer-toolkit/)
+👉 [AI 진실성 탐지기 데모](https://h2aler.github.io/True_or_false/)  
+👉 [Repository](https://github.com/H2aler/True_or_false)
 
-## 나의 DEMO_VER 보안 솔루션
-[**D1**](https://github.com/H2aler/secure-future)
+---
 
-## 내가 만든 다른 웹사이트 🌐
-[** 1 번째 웹사이트 방문하기**](https://h2aler.github.io/My_Site/)  <!-- 여기에 실제 웹사이트 주소로 바꾸세요! -->
+### 🌍 WebGIS – OpenLayers 기반 지도 서비스 (Vite, PC/Mobile – 미완성)
 
-[** 2 번째 웹사이트 방문하기**](https://h2aler.github.io/My_Site_Two/)  <!-- 여기에 실제 웹사이트 주소로 바꾸세요! -->
+- **OpenLayers 8** + **Vite** 기반 WebGIS 프로젝트
+- 거리 계산, 마커 관리, 기초 공간 분석 기능 실험용
 
-## 🌟 나의 1번째 HTML5 기반  AI 게임 🌟
+👉 라이브 데모: <https://h2aler.github.io/WebGIS/>  
+👉 Repository: <https://github.com/H2aler/WebGIS>
 
-[**1 번째 AI 오목 게임 사이트 방문하기**](https://h2aler.github.io/HTML5_AI_GAME_ONE/)  <!-- 여기에 실제 웹사이트 주소로 바꾸세요! -->
+### 🌍 WebGIS React – React + OpenLayers (미완성)
 
-[**2 번째 AI 오목 모바일 게임 사이트 방문하기**](https://h2aler.github.io/HTML5_AI_GAME_ONE_MOBILE/)
+- React 컴포넌트 아키텍처로 WebGIS 재구현
+- 상태 관리와 재사용성을 고려한 구조 설계
 
-[**3 번째 AI 오목 모바일 게임 확장 VERSION 사이트 방문하기**](https://h2aler.github.io/HTML5_AI_GAME_TWO_MOBILE/)
+👉 라이브 데모: <https://h2aler.github.io/WebGIS_React/>  
+👉 Repository: <https://github.com/H2aler/WebGIS_React>
 
-## 나의 HTML5 기반 게임 사이트
+---
 
-아래의 링크를 클릭하여 제가 만든 HTML5 게임 사이트를 방문해보세요!
+### 🤖 AI Vision Advanced – TensorFlow.js 기반 실시간 분석
 
-- [**1 번째 HTML5 주식 게임 사이트 방문하기**](https://h2aler.github.io/HTML5_GAME/)  <!-- 여기에 실제 웹사이트 주소로 바꾸세요! -->
-- [**2 번째 HTML5 주식 시뮬레이션 게임 사이트 방문하기**](https://h2aler.github.io/HTML5_GAME_TWO/)  <!-- 여기에 실제 웹사이트 주소로 바꾸세요! -->
-- [**3 번째 HTML5 주식 시뮬레이션 게임 사이트 방문하기**](https://h2aler.github.io/HTML5_GAME_THREE/)  <!-- 여기에 실제 웹사이트 주소로 바꾸세요! -->
-- [**4 번째 HTML5 주식 시뮬레이션 게임 사이트 방문하기**](https://h2aler.github.io/HTML5_GAME_FOUR/)  <!-- 여기에 실제 웹사이트 주소로 바꾸세요! -->
-- [**5 번째 HTML5 미사일 크러쉬 서바이벌 게임 사이트 방문하기**](https://h2aler.github.io/HTML5_GAME_FIVE/)  <!-- 여기에 실제 웹사이트 주소로 바꾸세요! -->
-  
-## 다짐
-저는 귀사에서 제공하는 기회를 통해 **Frontend 개발자/Full-Stack 개발자**로서의 역량을 극대화하고, 팀에 긍정적인 영향을 미치는 구성원이 되고자 합니다. 저의 열정과 경험이 귀사의 발전에 기여할 수 있도록 최선을 다할 것을 약속드립니다.
+- **TensorFlow.js**를 활용해 브라우저에서 실행되는  
+  실시간 **객체 인식 / AI 비전 분석** 시스템
+- 이미지 업로드 및 웹캠 입력을 통한 실시간 분석
 
-감사합니다! ☺️
+👉 라이브 데모: <https://h2aler.github.io/AI_Vision_Advanced/>  
+👉 Repository: <https://github.com/H2aler/AI_Vision_Advanced>
 
-# 📢 중요한 공지
+---
 
-모든 자료의 저작권은 **[H2aler(김재현: KIM JAEHYUN)]**에게 있으며,  
-허가 없이 **복제, 배포, 전송, 전시** 등의 행위를 **금지**합니다.
+### 🧠 Quantum‑Neural Visualization Tool
 
+- **양자 신경망(Quantum Neural Network)** 상태를  
+  실시간으로 시각화하는 실험용 웹 애플리케이션
 
-<!--
-**H2aler/H2aler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👉 라이브 데모: <https://h2aler.github.io/quantum-neural-viz/>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 기타 유틸 · 데모
 
+- **CGV 서버 상태 확인 도구**  
+  👉 [📽️ CGV 서버 상태 확인 🍿](https://h2aler.github.io/korean-cgv-web-developer-toolkit/)
+
+- **DEMO_VER 보안 솔루션**  
+  👉 [Secure Future – DEMO](https://github.com/H2aler/secure-future)
+
+---
+
+## 🌐 그 외 웹사이트 모음
+
+- [1번째 웹사이트](https://h2aler.github.io/My_Site/)  
+- [2번째 웹사이트](https://h2aler.github.io/My_Site_Two/)
+
+---
+
+## 🎮 HTML5 기반 AI 게임 시리즈
+
+- [1번째 AI 오목 게임](https://h2aler.github.io/HTML5_AI_GAME_ONE/)  
+- [2번째 AI 오목 모바일](https://h2aler.github.io/HTML5_AI_GAME_ONE_MOBILE/)  
+- [3번째 AI 오목 모바일 확장 버전](https://h2aler.github.io/HTML5_AI_GAME_TWO_MOBILE/)
+
+---
+
+## 📊 HTML5 기반 주식 시뮬레이션 & 게임
+
+- [1번째 HTML5 주식 게임](https://h2aler.github.io/HTML5_GAME/)  
+- [2번째 주식 시뮬레이션](https://h2aler.github.io/HTML5_GAME_TWO/)  
+- [3번째 주식 시뮬레이션](https://h2aler.github.io/HTML5_GAME_THREE/)  
+- [4번째 주식 시뮬레이션](https://h2aler.github.io/HTML5_GAME_FOUR/)  
+- [5번째 미사일 크러쉬 서바이벌 게임](https://h2aler.github.io/HTML5_GAME_FIVE/)
+
+---
+
+## 💡 다짐
+
+저는 **Frontend / Full‑Stack Developer**로서
+
+- 사용자 경험을 중심에 둔 UI/UX 설계  
+- 안정적인 아키텍처와 성능 최적화  
+- 팀과 함께 성장하는 개발 문화
+
+를 지향합니다.
+
+저의 경험과 열정이 귀사의 서비스와 팀에  
+**실질적인 가치**를 더할 수 있도록 항상 배우고, 실험하고, 개선하겠습니다.
+
+감사합니다. 🙂
+
+---
+
+## 📢 저작권 안내
+
+모든 자료의 저작권은 **H2aler (김재현, KIM JAEHYUN)** 에게 있습니다.  
+허가 없이 **복제, 배포, 전송, 전시** 등의 행위를 금지합니다.
