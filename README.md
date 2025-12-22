@@ -69,18 +69,6 @@
 
 ---
 
-## 🤖 AI · 데이터 관련 프로젝트
-
-### AI 진실성 탐지기 (True_or_false) – 진행 중
-
-- 브라우저 기반 **텍스트 진실성 탐지기** 프로젝트로,  
-  모델 고도화 및 기능 확장을 진행 중입니다.
-
-👉 데모: <https://h2aler.github.io/True_or_false/>  
-👉 Repository: <https://github.com/H2aler/True_or_false>
-
----
-
 ### WebGIS – OpenLayers 기반 지도 서비스 (Vite, PC/Mobile – 진행 중)
 
 - **OpenLayers 8 + Vite** 기반 실험용 WebGIS 프로젝트
