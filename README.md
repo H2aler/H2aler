@@ -3,9 +3,11 @@
   <p><em>"낯선 환경과 새로운 기술 앞에서도 흔들림 없이 배우고 책임감 있게 완성합니다."</em></p>
 
   <!-- 프로필 조회수 뱃지 -->
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FH2aler&count_bg=%231F6B75&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits" />
+  <a href="https://github.com/H2aler">
+    <img src="https://komarev.com/ghpvc/?username=H2aler&color=1F6B75&style=flat-square&label=Profile+Views" alt="Profile Views" />
   </a>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Status-산업기능요원_(보충역)_구직_중-FF6F00?style=for-the-badge" alt="산업기능요원(보충역) 구직 중" />
 </div>
 
 ---
@@ -16,6 +18,7 @@
 
 현재는 **Frontend / Full‑Stack Developer**로서 유려한 사용자 경험(UX)과 안정적인 웹/앱 환경 구축을 추구합니다. 주어지는 문제에 핑계를 찾기보다 실질적인 해결책을 고민하며, 묵묵히 팀과 프로덕트 성장에 기여하는 개발자를 지향합니다.
 
+*   💼 **현재 상태**: **산업기능요원(보충역)** 구직 대기 중
 *   💡 **관심 분야**: `Frontend Development`, `WebGIS`, `Web AI (TensorFlow.js)`, `Interactive Web Design`
 *   🌱 **학습 방향**: 새로운 기술을 무작정 이론만 파기보단 **실험적인 사이드 프로젝트를 기획해 직접 개발/배포하며 검증**하는 방식을 선호합니다.
 
@@ -115,8 +118,8 @@
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=H2aler&show_icons=true&theme=transparent&hide_border=true&title_color=1F6B75&icon_color=1F6B75&text_color=333333" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H2aler&layout=compact&theme=transparent&hide_border=true&title_color=1F6B75&text_color=333333" alt="Top Langs" />
+  <img height="150" src="https://streak-stats.demolab.com/?user=H2aler&theme=transparent&hide_border=true&title_color=1F6B75&icon_color=1F6B75&text_color=333333" alt="GitHub Streak" />
+  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=H2aler&layout=compact&theme=transparent&title_color=1F6B75&text_color=333333&hide_border=true" alt="Top Langs" />
 </div>
 
 <br/>
