@@ -82,12 +82,12 @@
 
 | 프로젝트명 | 요약 설명 | 기술 스택 | 링크 |
 | :--- | :--- | :--- | :--- |
-| **Interactive Portfolio 2025** | JS 애니메이션과 반응형 디자인을 세밀하게 적용하여 사용자 경험을 극대화한 프론트엔드 포트폴리오. | React 등 | [🚀 데모](https://h2aler.github.io/react-frontend-portfolio-2025/#/) |
-| **Test Portfolio** | 순수 JavaScript를 활용한 인터랙티브 애니메이션 효과 포트폴리오 프로토타입. | Vanilla JS, HTML/CSS | [🚀 데모](https://h2aler.github.io/github-profile-summary/) |
-| **WebGIS (React)** | 공간 데이터 시각화, 마커 관리, 거리 계산 등 공간 분석 기능을 갖춘 실험적 WebGIS의 React 컴포넌트 버전. | React, OpenLayers | [🚀 데모](https://h2aler.github.io/WebGIS_React/) <br> [🔗 Repo](https://github.com/H2aler/WebGIS_React) |
-| **WebGIS (Vanilla)** | 위 WebGIS 프로젝트의 OpenLayers 8 + Vite 기반 오리지널 구현. | OpenLayers 8, Vite | [🚀 데모](https://h2aler.github.io/WebGIS/) <br> [🔗 Repo](https://github.com/H2aler/WebGIS) |
-| **AI Vision Advanced** | TensorFlow.js를 활용, **브라우저 환경(VRAM 의존)에서 100% 동작**하는 웹캠/이미지 기반 실시간 객체 인식 시스템. | React, TensorFlow.js | [🚀 데모](https://h2aler.github.io/AI_Vision_Advanced/) <br> [🔗 Repo](https://github.com/H2aler/AI_Vision_Advanced) |
-| **Quantum‑Neural Viz Tool** | 양자 신경망(QNN)의 상태를 브라우저 상에서 실시간 시각화하는 웹 기반 연구용 툴. | Web, Canvas | [🚀 데모](https://h2aler.github.io/quantum-neural-viz/) |
+| **Interactive Portfolio 2025** | JS 애니메이션과 반응형 디자인을 세밀하게 적용하여 사용자 경험을 극대화한 프론트엔드 포트폴리오. | React 등 | [데모](https://h2aler.github.io/react-frontend-portfolio-2025/#/) |
+| **Test Portfolio** | 순수 JavaScript를 활용한 인터랙티브 애니메이션 효과 포트폴리오 프로토타입. | Vanilla JS, HTML/CSS | [데모](https://h2aler.github.io/github-profile-summary/) |
+| **WebGIS (React)** | 공간 데이터 시각화, 마커 관리, 거리 계산 등 공간 분석 기능을 갖춘 실험적 WebGIS의 React 컴포넌트 버전. | React, OpenLayers | [데모](https://h2aler.github.io/WebGIS_React/) <br> [🔗 Repo](https://github.com/H2aler/WebGIS_React) |
+| **WebGIS (Vanilla)** | 위 WebGIS 프로젝트의 OpenLayers 8 + Vite 기반 오리지널 구현. | OpenLayers 8, Vite | [데모](https://h2aler.github.io/WebGIS/) <br> [🔗 Repo](https://github.com/H2aler/WebGIS) |
+| **AI Vision Advanced** | TensorFlow.js를 활용, **브라우저 환경(VRAM 의존)에서 100% 동작**하는 웹캠/이미지 기반 실시간 객체 인식 시스템. | React, TensorFlow.js | [데모](https://h2aler.github.io/AI_Vision_Advanced/) <br> [🔗 Repo](https://github.com/H2aler/AI_Vision_Advanced) |
+| **Quantum‑Neural Viz Tool** | 양자 신경망(QNN)의 상태를 브라우저 상에서 실시간 시각화하는 웹 기반 연구용 툴. | Web, Canvas | [데모](https://h2aler.github.io/quantum-neural-viz/) |
 
 > **📱 Mobile App Development Note:** 기존 React 기반 웹 프로젝트들을 모바일 환경에 적합한 **React Native 앱으로 직접 포팅**하고, 터치 제스처 등 네이티브 인터랙션을 추가하여 Android APK로 성공적으로 빌드/배포한 다수의 경험을 보유하고 있습니다.
 
