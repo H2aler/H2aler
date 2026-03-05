@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
   <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=white" alt="Styled Components"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
-  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black" alt="Webpack"/>
+  <img src="https://img.shields.io/badge/Wayback_Machine-FF6600?style=flat-square&logo=archive-of-our-own&logoColor=white" alt="Wayback"/>
   <img src="https://img.shields.io/badge/Github_Pages-222222?style=flat-square&logo=github&logoColor=white" alt="Github Pages"/>
 </p>
 
@@ -49,13 +49,7 @@
 <p>
   <img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow.js"/>
   <img src="https://img.shields.io/badge/OpenLayers-1F6B75?style=flat-square&logo=openlayers&logoColor=white" alt="OpenLayers"/>
-</p>
-
-### Backend & Others
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/MapLibre_GL-212121?style=flat-square&logo=maplibre&logoColor=white" alt="MapLibre"/>
 </p>
 
 ---
@@ -68,13 +62,12 @@
     *   **한불 언어마을 웹마스터**: 웹사이트 기능 개발/유지보수 및 프랑스어/한국어 통번역 병행
 *   **세아상역(주) 인턴십** (6개월)
     *   **RPA 기반 사내 업무 자동화 PoC 설계 및 구현**
-    *   Microsoft Power Automate 기반 반복 업무 워크플로우 분석 및 예외 처리 로직 설계
-    *   애자일(Scrum) 기반 잦은 스프린트 미팅으로 빠른 피드백 반영 및 협업 경험
+    *   애자일(Scrum) 기반 협력 모델을 경험하며 빠른 피드백 반영 및 협업 능력 배양
     *   *(※ 추천서 보유, 요청 시 제공 가능)*
 
 ### 🎓 Education
 *   **Université de La Rochelle (France)** | 컴퓨터 공학 (Computer Science) (2020 ~ 2023)
-*   **Lycée Fénelon / Vieljeux (France)** | 엔지니어링 전공 (전기/물리 등 이과 특별전공) (2017 ~ 2020)
+*   **Lycée Fénelon / Vieljeux (France)** | 엔지니어링 전공 (2017 ~ 2020)
 
 ---
 
@@ -82,14 +75,13 @@
 
 | 프로젝트명 | 요약 설명 | 기술 스택 | 링크 |
 | :--- | :--- | :--- | :--- |
+| **WebGIS BETA (Advanced)** | **C-ITS 실시간 교통(CCTV)**, 3D 지형 시각화, AI 이미지 위치 분석이 통합된 지능형 공간정보 시스템. | OpenLayers, MapLibre, TF.js | [데모](https://h2aler.github.io/WebGIS_BETA/) <br> [🔗 Repo](https://github.com/H2aler/WebGIS_BETA) |
 | **Interactive Portfolio 2025** | JS 애니메이션과 반응형 디자인을 세밀하게 적용하여 사용자 경험을 극대화한 프론트엔드 포트폴리오. | React 등 | [데모](https://h2aler.github.io/react-frontend-portfolio-2025/#/) |
-| **Test Portfolio** | 순수 JavaScript를 활용한 인터랙티브 애니메이션 효과 포트폴리오 프로토타입. | Vanilla JS, HTML/CSS | [데모](https://h2aler.github.io/github-profile-summary/) |
-| **WebGIS (React)** | 공간 데이터 시각화, 마커 관리, 거리 계산 등 공간 분석 기능을 갖춘 실험적 WebGIS의 React 컴포넌트 버전. | React, OpenLayers | [데모](https://h2aler.github.io/WebGIS_React/) <br> [🔗 Repo](https://github.com/H2aler/WebGIS_React) |
-| **WebGIS (Vanilla)** | 위 WebGIS 프로젝트의 OpenLayers 8 + Vite 기반 오리지널 구현. | OpenLayers 8, Vite | [데모](https://h2aler.github.io/WebGIS/) <br> [🔗 Repo](https://github.com/H2aler/WebGIS) |
-| **AI Vision Advanced** | TensorFlow.js를 활용, **브라우저 환경(VRAM 의존)에서 100% 동작**하는 웹캠/이미지 기반 실시간 객체 인식 시스템. | React, TensorFlow.js | [데모](https://h2aler.github.io/AI_Vision_Advanced/) <br> [🔗 Repo](https://github.com/H2aler/AI_Vision_Advanced) |
-| **Quantum‑Neural Viz Tool** | 양자 신경망(QNN)의 상태를 브라우저 상에서 실시간 시각화하는 웹 기반 연구용 툴. | Web, Canvas | [데모](https://h2aler.github.io/quantum-neural-viz/) |
+| **AI Vision Advanced** | TensorFlow.js를 활용, **브라우저에서 100% 동작**하는 실시간 객체 및 텍스트(OCR) 인식 시스템. | React, TensorFlow.js | [데모](https://h2aler.github.io/AI_Vision_Advanced/) <br> [🔗 Repo](https://github.com/H2aler/AI_Vision_Advanced) |
+| **WebGIS (React)** | 공간 데이터 시각화 및 마커 관리 기능을 갖춘 실험적 WebGIS의 React 버전. | React, OpenLayers | [데모](https://h2aler.github.io/WebGIS_React/) <br> [🔗 Repo](https://github.com/H2aler/WebGIS_React) |
+| **Quantum‑Neural Viz Tool** | 양자 신경망(QNN)의 상태를 실시간으로 시각화하는 웹 기반 연구용 툴. | Web, Canvas | [데모](https://h2aler.github.io/quantum-neural-viz/) |
 
-> **📱 Mobile App Development Note:** 기존 React 기반 웹 프로젝트들을 모바일 환경에 적합한 **React Native 앱으로 직접 포팅**하고, 터치 제스처 등 네이티브 인터랙션을 추가하여 Android APK로 성공적으로 빌드/배포한 다수의 경험을 보유하고 있습니다.
+> **📱 Mobile App Development Note:** 기존 React 기반 웹 프로젝트들을 **React Native 앱으로 직접 포팅**하고, Android 환경에 맞춰 빌드/배포(APK)한 다수의 경험을 보유하고 있습니다.
 
 ---
 
@@ -117,7 +109,6 @@
 
 - [🛠 CGV 서버 상태 확인 도구](https://h2aler.github.io/korean-cgv-web-developer-toolkit/)
 - [🛡 보안 솔루션 DEMO (Secure Future)](https://github.com/H2aler/secure-future)
-- [🗄 1번째 웹사이트(Archive)](https://h2aler.github.io/My_Site/) | [🗄 2번째 웹사이트(Archive)](https://h2aler.github.io/My_Site_Two/)
 </details>
 
 ---
@@ -132,4 +123,5 @@
 <br/>
 
 > **📢 Copyright Notice**  
-> 이 레포지토리에 포함된 모든 코드와 저작물의 권리는 **H2aler (김재현, KIM JAEHYUN)** 에게 있습니다. 무단 복제 및 배포를 금지합니다.
+> 이 레포지토리에 포함된 모든 코드와 저작물의 권리는 **H2aler (김재현, KIM JAEHYUN)** 에게 있습니다. 무단 복제 및 배포를 금지하며, 상업적 이용 시 사전에 고지된 메일로 문의 바랍니다.
+> **Contact**: [max30105@gmail.com](mailto:max30105@gmail.com)
