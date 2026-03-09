@@ -78,9 +78,9 @@
 | **WebGIS BETA (Advanced)** | **C-ITS 실시간 교통(CCTV)**, 3D 지형 시각화, AI 이미지 위치 분석이 통합된 지능형 공간정보 시스템. | OpenLayers, MapLibre, TF.js | [데모](https://h2aler.github.io/WebGIS_BETA/) <br> [🔗 Repo](https://github.com/H2aler/WebGIS_BETA) |
 | **Interactive Portfolio 2025** | JS 애니메이션과 반응형 디자인을 세밀하게 적용하여 사용자 경험을 극대화한 프론트엔드 포트폴리오. | React 등 | [데모](https://h2aler.github.io/react-frontend-portfolio-2025/#/) |
 | **AI Vision Advanced** | TensorFlow.js를 활용, **브라우저에서 100% 동작**하는 실시간 객체 및 텍스트(OCR) 인식 시스템. | React, TensorFlow.js | [데모](https://h2aler.github.io/AI_Vision_Advanced/) <br> [🔗 Repo](https://github.com/H2aler/AI_Vision_Advanced) |
+| **WebGIS** | HTML/JS 기반의 OpenLayers WebGIS 애플리케이션을 중심으로 구성되어 있으며, 보조적으로 React + TypeScript 구현(webgis-react/)을 함께 제공. [데모](https://h2aler.github.io/WebGIS/) | [🔗 Repo](https://github.com/H2aler/WebGIS)
 | **WebGIS (React)** | 공간 데이터 시각화 및 마커 관리 기능을 갖춘 실험적 WebGIS의 React 버전. | React, OpenLayers | [데모](https://h2aler.github.io/WebGIS_React/) <br> [🔗 Repo](https://github.com/H2aler/WebGIS_React) |
-| **Quantum‑Neural Viz Tool** | 양자 신경망(QNN)의 상태를 실시간으로 시각화하는 웹 기반 연구용 툴. | Web, Canvas | [데모](https://h2aler.github.io/quantum-neural-viz/) |
-
+ 
 > **📱 Mobile App Development Note:** 기존 React 기반 웹 프로젝트들을 **React Native 앱으로 직접 포팅**하고, Android 환경에 맞춰 빌드/배포(APK)한 다수의 경험을 보유하고 있습니다.
 
 ---
