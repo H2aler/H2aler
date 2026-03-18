@@ -7,7 +7,7 @@
     <img src="https://komarev.com/ghpvc/?username=H2aler&color=1F6B75&style=flat-square&label=Profile+Views" alt="Profile Views" />
   </a>
   <br/><br/>
-  <img src="https://img.shields.io/badge/Status-산업기능요원_(보충역)_구직_중-FF6F00?style=for-the-badge" alt="산업기능요원(보충역) 구직 중" />
+  <img src="https://img.shields.io/badge/Status-산업기능요원_(보충역)_취직_완료-4CAF50?style=for-the-badge" alt="산업기능요원(보충역) 취직 완료" />
 </div>
 
 ---
@@ -18,7 +18,7 @@
 
 현재는 **Frontend / Full‑Stack Developer**로서 유려한 사용자 경험(UX)과 안정적인 웹/앱 환경 구축을 추구합니다. 주어지는 문제에 핑계를 찾기보다 실질적인 해결책을 고민하며, 묵묵히 팀과 프로덕트 성장에 기여하는 개발자를 지향합니다.
 
-*   💼 **현재 상태**: **산업기능요원(보충역)** 구직 대기 중
+*   💼 **현재 상태**: **산업기능요원(보충역)** 취직 완료
 *   💡 **관심 분야**: `Frontend Development`, `WebGIS`, `Web AI (TensorFlow.js)`, `Interactive Web Design`
 *   🌱 **학습 방향**: 새로운 기술을 무작정 이론만 파기보단 **실험적인 사이드 프로젝트를 기획해 직접 개발/배포하며 검증**하는 방식을 선호합니다.
 
