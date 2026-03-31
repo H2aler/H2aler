@@ -66,7 +66,7 @@
     *   *(※ 추천서 보유, 요청 시 제공 가능)*
 
 ### 🎓 Education
-*   **Université de La Rochelle (France)** | 컴퓨터 공학 (Computer Science) (2020 ~ 2023)
+*   **Université de La Rochelle (France)** | 컴퓨터정보처리 공학 (2020 ~ 2023)
 *   **Lycée Fénelon / Vieljeux (France)** | 엔지니어링 전공 (2017 ~ 2020)
 
 ---
